@@ -1,3 +1,4 @@
+![logo](https://github.com/sarodesayali11/sarodesayali11/blob/main/download.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sayali A. Sarode</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
