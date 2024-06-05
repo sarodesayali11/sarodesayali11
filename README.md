@@ -1,4 +1,4 @@
-![logo](https://github.com/sarodesayali11/sarodesayali11/blob/main/download.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Sayali Sarode</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
