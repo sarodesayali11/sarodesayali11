@@ -1,28 +1,115 @@
+<h1 align="center">Hi 👋 I'm Sayali Sarode</h1>
 
-<h1 align="center">Hi 👋, I'm Sayali Sarode</h1>
-<h3 align="center">A passionate Software Tester from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarodesayali11&label=Profile%20views&color=0e75b6&style=flat" alt="sarodesayali11" /> </p>
-
-- 🔭 I’m currently Learning on **Software Testing**
-
-- 🌱 I’m currently learning **Software Testing (Automation and Manual)))**
-
-- 📫 How to reach me **sayalisarode2002@gmail.com**
-
-- 📄 Know about my experiences [https://pdf.ac/2uJS3u](https://pdf.ac/2uJS3u)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sayali sarode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayali sarode" height="30" width="40" /></a>
-<a href="https://instagram.com/_sayali_sarode_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sayali_sarode_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+QA+Engineer;Manual+%26+Automation+Tester;Selenium+%7C+Java+%7C+TestNG;ISTQB+Foundation+Level+Candidate;Passionate+About+Software+Quality" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarodesayali11&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Testing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Selenium-green?style=for-the-badge" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarodesayali11&show_icons=true&locale=en&layout=compact" alt="sarodesayali11" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarodesayali11&show_icons=true&locale=en" alt="sarodesayali11" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarodesayali11&" alt="sarodesayali11" /></p>
+🎓 MCA Graduate  
+🔍 Passionate about Software Testing  
+💻 Working on Selenium Automation Framework (POM + TestNG)  
+📚 Preparing for ISTQB Certification  
+🎯 Goal: Become a Skilled Automation Test Engineer  
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Automation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=selenium" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+### 🧪 Testing Skills
+
+✔ Manual Testing  
+✔ Functional Testing  
+✔ Regression Testing  
+✔ Smoke Testing  
+✔ STLC & SDLC  
+✔ Defect Life Cycle  
+✔ Test Case Design  
+✔ Bug Reporting  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 OrangeHRM Automation Framework
+- Selenium + Java
+- TestNG
+- Page Object Model (POM)
+- Login / Logout / Admin Module Automation
+
+### 🔹 Manual Testing Project – Lift System
+- Designed 25+ Test Scenarios
+- Prepared Detailed Test Cases
+- Covered Functional, Safety & Non-Functional Testing
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarodesayali11&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarodesayali11&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarodesayali11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+🔹 Advanced Selenium Framework Design  
+🔹 API Testing with Postman  
+🔹 SQL for Testers  
+🔹 Git & CI/CD Basics  
+
+---
+
+## 🏆 Certifications
+
+📜 ISTQB Foundation Level (In Progress)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sayalisarode2002@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 💬 QA Thought
+
+> “Testing leads to failure, and failure leads to understanding.”
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
