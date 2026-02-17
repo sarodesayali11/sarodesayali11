@@ -1,30 +1,28 @@
-<h1 align="center">Hi 👋 I'm Sayali Sarode</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Sayali+Sarode;QA+Engineer+%7C+Manual+%26+Automation+Tester;Selenium+%7C+Java+%7C+TestNG;ISTQB+Foundation+Level+Candidate;Actively+Looking+for+QA+Opportunities" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+QA+Engineer;Manual+%26+Automation+Tester;Selenium+%7C+Java+%7C+TestNG;ISTQB+Foundation+Level+Candidate;Passionate+About+Software+Quality" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarodesayali11&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Testing-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Selenium-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profile-Open%20to%20Work-1E90FF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Role-QA%20Engineer-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Selenium-1E90FF?style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 💙 About Me
 
-🎓 MCA Graduate  
-🔍 Passionate about Software Testing  
-💻 Working on Selenium Automation Framework (POM + TestNG)  
-📚 Preparing for ISTQB Certification  
-🎯 Goal: Become a Skilled Automation Test Engineer  
+🔹 MCA Graduate  
+🔹 Aspiring QA Engineer with strong foundation in Manual & Automation Testing  
+🔹 Hands-on experience in Selenium WebDriver using Java  
+🔹 Knowledge of STLC, SDLC & Defect Life Cycle  
+🔹 Actively looking for Entry-Level QA / Test Engineer roles  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👨‍💻 Programming & Automation
+### 💻 Automation
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=selenium" />
@@ -32,84 +30,69 @@
   <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
-### 🧪 Testing Skills
-
-✔ Manual Testing  
-✔ Functional Testing  
+### 🧪 Manual Testing
+✔ Test Case Design  
+✔ Test Scenario Preparation  
+✔ Bug Reporting  
 ✔ Regression Testing  
 ✔ Smoke Testing  
-✔ STLC & SDLC  
-✔ Defect Life Cycle  
-✔ Test Case Design  
-✔ Bug Reporting  
+✔ Functional Testing  
+✔ Black Box Testing  
+
+### 🗄️ Database & API
+✔ Basic SQL Queries  
+✔ Postman (API Testing Basics)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Academic & Practice Projects
 
-### 🔹 OrangeHRM Automation Framework
-- Selenium + Java
-- TestNG
-- Page Object Model (POM)
-- Login / Logout / Admin Module Automation
-
-### 🔹 Manual Testing Project – Lift System
-- Designed 25+ Test Scenarios
-- Prepared Detailed Test Cases
-- Covered Functional, Safety & Non-Functional Testing
+### 🔵 OrangeHRM Automation Framework
+✔ Selenium + Java  
+✔ TestNG  
+✔ Page Object Model (POM)  
+✔ Login / Logout / Admin Module  
 
 ---
 
-## 📊 GitHub Analytics
+### 🔵 Manual Testing Project – Lift System
+✔ Designed 25+ Test Scenarios  
+✔ Created Detailed Test Cases in Excel  
+✔ Covered Functional, Safety & Boundary Testing  
+
+---
+
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarodesayali11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarodesayali11&show_icons=true&theme=tokyonight&hide_border=true&title_color=1E90FF&icon_color=1E90FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarodesayali11&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarodesayali11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarodesayali11&theme=tokyonight&hide_border=true&ring=1E90FF&fire=1E90FF" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 Career Objective
 
-🔹 Advanced Selenium Framework Design  
-🔹 API Testing with Postman  
-🔹 SQL for Testers  
-🔹 Git & CI/CD Basics  
+To secure an entry-level QA Engineer position where I can apply my testing knowledge, improve automation skills, and contribute to delivering high-quality software products.
 
 ---
 
-## 🏆 Certifications
-
-📜 ISTQB Foundation Level (In Progress)
-
----
-
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-1E90FF?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sayalisarode2002@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-0A66C2?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 💬 QA Thought
-
-> “Testing leads to failure, and failure leads to understanding.”
-
----
-
 <p align="center">
-✨ Thanks for visiting my profile ✨
+💙 "Quality is not an act, it is a habit." 💙
 </p>
