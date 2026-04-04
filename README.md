@@ -14,8 +14,7 @@
 
 Detail-oriented and motivated **QA Engineer (Fresher)** with strong knowledge of  
 Manual Testing and Selenium Automation using Java.  
-Hands-on experience in designing test cases, executing test scenarios,  
-and building automation frameworks using POM & TestNG.
+Hands-on experience in designing test cases, executing test scenarios.
 
 🔹 Strong understanding of STLC & SDLC  
 🔹 Good analytical & problem-solving skills  
@@ -25,13 +24,6 @@ and building automation frameworks using POM & TestNG.
 
 ## 🛠️ Technical Skills
 
-### 🔵 Automation Testing
-- Selenium WebDriver
-- Java
-- TestNG
-- Page Object Model (POM)
-- Basic Framework Design
-
 ### 🔵 Manual Testing
 - Test Case Design
 - Test Scenario Preparation
@@ -39,6 +31,13 @@ and building automation frameworks using POM & TestNG.
 - Smoke Testing
 - Functional Testing
 - Defect Life Cycle
+
+- ### 🔵 Basic understanding in Automation Testing
+- Selenium WebDriver
+- Java
+- TestNG
+- Page Object Model (POM)
+- Basic Framework Design
 
 ### 🔵 Tools & Technologies
 - Git & GitHub
